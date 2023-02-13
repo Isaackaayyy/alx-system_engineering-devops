@@ -1,0 +1,47 @@
+0-current_working_directory
+100-lets_move
+101-clean_emacs
+102-tree
+103-commas
+10-back
+11-lists
+12-file_type
+13-symbolic_link
+14-copy_html
+1-listit
+2-bring_me_home
+3-listfiles
+4-listmorefiles
+5-listfilesdigitonly
+6-firstdirectory
+7-movethatfile
+8-firstdelete
+9-firstdirdeletion
+file_list
+README.md
+school.mgc
+total 92
+drwxr-xr-x 2 root root 4096 Feb 13 07:58 ./
+drwxr-xr-x 5 root root   90 Feb  9 10:29 ../
+-rwxr-xr-x 1 root root   16 Feb  8 14:11 0-current_working_directory*
+-rwxr-xr-x 1 root root   29 Feb  8 18:46 100-lets_move*
+-rwxr-xr-x 1 root root   18 Feb  8 19:08 101-clean_emacs*
+-rwxr-xr-x 1 root root   39 Feb  8 19:48 102-tree*
+-rwxr-xr-x 1 root root   30 Feb  8 19:24 103-commas*
+-rwxr-xr-x 1 root root   17 Feb  8 17:59 10-back*
+-rwxr-xr-x 1 root root   30 Feb  8 18:26 11-lists*
+-rwxr-xr-x 1 root root   31 Feb  8 18:05 12-file_type*
+-rwxr-xr-x 1 root root   33 Feb  8 18:35 13-symbolic_link*
+-rwxr-xr-x 1 root root   29 Feb  8 18:38 14-copy_html*
+-rwxr-xr-x 1 root root   15 Feb  8 14:54 1-listit*
+-rwxr-xr-x 1 root root   17 Feb  8 15:11 2-bring_me_home*
+-rwxr-xr-x 1 root root   18 Feb  8 15:41 3-listfiles*
+-rwxr-xr-x 1 root root   19 Feb  8 16:09 4-listmorefiles*
+-rwxr-xr-x 1 root root   20 Feb  8 17:46 5-listfilesdigitonly*
+-rwxr-xr-x 1 root root   42 Feb  8 16:27 6-firstdirectory*
+-rwxr-xr-x 1 root root   51 Feb  8 17:45 7-movethatfile*
+-rwxr-xr-x 1 root root   45 Feb  8 17:50 8-firstdelete*
+-rwxr-xr-x 1 root root   42 Feb  8 17:53 9-firstdirdeletion*
+-rw-r--r-- 1 root root  308 Feb 13 07:59 file_list
+-rw-r--r-- 1 root root   20 Feb  8 12:35 README.md
+-rwxr-xr-x 1 root root   13 Feb  8 19:29 school.mgc*
