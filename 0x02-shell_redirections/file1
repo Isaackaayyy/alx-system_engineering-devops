@@ -1,0 +1,15 @@
+0-hello_world
+1-confused_smiley
+2-hellofile
+3-twofiles
+file1
+README.md
+total 24
+drwxr-xr-x 2 root root 119 Feb 13 13:44 ./
+drwxr-xr-x 6 root root 121 Feb 13 12:44 ../
+-rwxr--r-- 1 root root  32 Feb 13 12:22 0-hello_world*
+-rwxr--r-- 1 root root  24 Feb 13 13:26 1-confused_smiley*
+-rwxr--r-- 1 root root  28 Feb 13 13:31 2-hellofile*
+-rwxr--r-- 1 root root  39 Feb 13 13:41 3-twofiles*
+-rw-r--r-- 1 root root  71 Feb 13 13:44 file1
+-rw-r--r-- 1 root root  18 Feb 13 12:46 README.md
