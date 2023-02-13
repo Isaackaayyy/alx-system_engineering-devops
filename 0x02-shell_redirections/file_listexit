@@ -1,0 +1,7 @@
+total 12
+drwxr-xr-x 2 root root  90 Feb 13 13:18 ./
+drwxr-xr-x 6 root root 121 Feb 13 12:44 ../
+-rwxr--r-- 1 root root  32 Feb 13 12:22 0-hello_world*
+-rwxr--r-- 1 root root  27 Feb 13 12:28 1-confused_smiley*
+-rw-r--r-- 1 root root   0 Feb 13 13:18 file_listexit
+-rw-r--r-- 1 root root  18 Feb 13 12:46 README.md
